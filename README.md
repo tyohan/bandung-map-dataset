@@ -6,3 +6,5 @@ This repo for provide GIS data for Bandung, West Java Indonesia. Using GEOJSON f
 Boundries data for kelurahan and kecamatan was convert from https://www.arcgis.com/home/item.html?id=c1ab41ccdb464059a77f3ecd674e9d5d 
 
 If you have any Bandung GIS data please convert it to GEOJSON, fork this repo and pull request.
+
+Note: This data is not accurate. Not update with the latest. Please use this just as reference not for production. 
